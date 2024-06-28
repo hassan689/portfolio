@@ -1,0 +1,1 @@
+// i have added js in the main html file 
